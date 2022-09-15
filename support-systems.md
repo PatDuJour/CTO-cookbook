@@ -12,6 +12,8 @@ Trusted
 ### Communities
 #### Virtual
 Rands
+[AWS CTO Community](https://cto-community.super.site/)
+
 #### Regional
 LA CTO Forum
 
