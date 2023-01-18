@@ -12,4 +12,7 @@ Facade:
 * This is how we learn things best and deepest
 
 Unknown Unknowns
-* Completely unfamiliar
+* Seems completely unfamiliar
+* Transfer - bring new skills new knowledge 
+
+Uncouncious Competent to Councious Incompetent
