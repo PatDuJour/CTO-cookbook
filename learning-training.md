@@ -15,4 +15,5 @@ Unknown Unknowns
 * Seems completely unfamiliar
 * Transfer - bring new skills new knowledge 
 
-Uncouncious Competent to Councious Incompetent
+Novice to Expert
+Uncouncious Competence to Councious Incompetence to Concious Comptence to Uncounious Competence
